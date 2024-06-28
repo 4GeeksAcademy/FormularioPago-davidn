@@ -1,0 +1,25 @@
+.card-header {
+margin-bottom: 10px;
+}
+.form-floating {
+    margin-left: 480px;
+    size: 503px;
+    bottom: 68px;
+}
+.form-select {
+    margin-top: 7px;
+}
+.radio {
+    background-color: rgb(131, 130, 130);
+
+}
+.aceptamos {
+    margin-top: 24px;
+  margin-left: 16px;
+}
+.tarjeta {
+    margin-right: 189px;
+}
+.cvv {
+    margin-right: 212px;
+}
